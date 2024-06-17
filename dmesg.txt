@@ -1,0 +1,189 @@
+[Sat Jun  8 01:41:03 2024] [wpa_su][0x28a4c74450c3][20:16:31.796141] wlan: [5719:I:SME] vdev-0: Connecting to NETGEAR27-5G 78:d2:94:0d:52:77 rssi: -53 freq: 5765 akm 9 cipher: uc 6 mc 6, CC: US
+[Sat Jun  8 01:41:03 2024] [schedu][0x28a4c744c219][20:16:31.797653] wlan: [30402:I:WMI] send_vdev_start_cmd_tlv: vdev_id 0 freq 5765 chanmode 10 ch_info: 0xa is_dfs 0 beacon interval 100 dtim 0 center_chan 5775 center_freq2 0 reg_info_1: 0x180000 reg_info_2: 0x1800, req->max_txpow: 0x18 Tx SS 1, Rx SS 1, ldpc_rx: 0, cac 0, regd 1, HE ops: 0req->dis_hw_ack: 0 
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c75205fe][20:16:31.842931] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3096 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c75379c6][20:16:31.847888] wlan: [30402:I:PE] Auth TX: fail (3)
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c763b417][20:16:31.903279] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3097 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c77549f6][20:16:31.963304] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3098 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c786d893][20:16:32.023232] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3099 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c7986bc2][20:16:32.083221] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3100 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c7a9fe01][20:16:32.143198] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3101 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c7bb90ff][20:16:32.203185] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3102 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] activate_work_func: 1 callbacks suppressed
+[Sat Jun  8 01:41:04 2024] ipa_pm activate_work_func:447 client has no callback
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c7cd228f][20:16:32.263152] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3103 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c7deda3a][20:16:32.323628] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3104 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c7f049c0][20:16:32.383141] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3105 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c7f2039e][20:16:32.389033] wlan: [30402:I:PE] Auth TX: fail (3)
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c801e0fd][20:16:32.443184] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3106 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c8161c85][20:16:32.512245] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3107 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c8275f5c][20:16:32.571163] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3108 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c839acac][20:16:32.633634] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3109 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c84a933d][20:16:32.691321] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3110 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:04 2024] [schedu][0x28a4c85c1e28][20:16:32.751200] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3111 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:05 2024] [schedu][0x28a4c86db098][20:16:32.811179] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3112 status 0 WEP 0 to 78:d2:94:0d:52:77
+[Sat Jun  8 01:41:05 2024] [schedu][0x28a4c8770ece][20:16:32.843155] wlan: [30402:W:PE] lim_process_auth_failure_timeout: received AUTH failure timeout in sessionid 0 limMlmstate 5 limSmeState 4
+[Sat Jun  8 01:41:05 2024] [schedu][0x28a4c87716b6][20:16:32.843261] wlan: [30402:E:PE] lim_process_mlm_auth_cnf: Auth Failure occurred
+[Sat Jun  8 01:41:05 2024] [schedu][0x28a4c87924f7][20:16:32.850278] wlan: [30402:I:TXRX] ol_txrx_peer_detach: ol_txrx_peer_detach peer 0000000000000000, peer->ref_cnt 7
+[Sat Jun  8 01:41:05 2024] [schedu][0x28a4c8792695][20:16:32.850299] wlan: [30402:I:TXRX] ol_txrx_peer_detach: started peer_unmap_timer for peer 0000000000000000
+[Sat Jun  8 01:41:05 2024] [soft_i][0x28a4c8794a60][20:16:32.850776] wlan: [0:I:TXRX] ol_txrx_peer_release_ref: [9][0]: Deleting peer 0000000000000000 ref_cnt -> 0 
+[Sat Jun  8 01:41:05 2024] [schedu][0x28a4c87984b3][20:16:32.851554] wlan: [30402:E:HDD] hdd_get_roam_scan_ch_cb: Invalid len
+[Sat Jun  8 01:41:05 2024] [schedu][0x28a4c879876b][20:16:32.851590] wlan: [30402:W:SME] csr_roam_join_rsp_processor: SmeJoinReq failed with status_code= 0x000001FD [509] reason:65530
+[Sat Jun  8 01:41:05 2024] [schedu][0x28a4c879a8fc][20:16:32.852038] wlan: [30402:E:HDD] hdd_association_completion_handler: wlan0(vdevid-0): connection failed with 78:d2:94:0d:52:77 result: 3 and Status: 7
+[Sat Jun  8 01:41:05 2024] [schedu][0x28a4c879d060][20:16:32.852563] wlan: [30402:E:HDD] hdd_association_completion_handler: wlan0(vdevid-0): connection failed with 78:d2:94:0d:52:77 result: 1 and Status: 9
+[Sat Jun  8 01:41:05 2024] [schedu][0x28a4c879da55][20:16:32.852696] wlan: [30402:E:HDD] hdd_association_completion_handler: send connect failure to nl80211: for bssid 78:d2:94:0d:52:77 result: 1 and Status: 9 reasoncode: 65530
+[Sat Jun  8 01:41:05 2024] [schedu][0x28a4c87a5fc1][20:16:32.854475] wlan: [30402:I:HDD] hdd_local_unsafe_channel_updated: unsafe chan list same
+[Sat Jun  8 01:41:05 2024] [wpa_su][0x28a4c87aed34][20:16:32.856361] wlan: [5719:E:OSIF] wlan_cfg80211_mc_cp_stats_get_station_stats: peer is null
+[Sat Jun  8 01:41:05 2024] [wpa_su][0x28a4c87aefee][20:16:32.856397] wlan: [5719:E:HDD] hdd_get_station_info_ex: wlan_hdd_get_station_stats fail
+[Sat Jun  8 01:41:05 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767944, adj_mode = 512768104
+[Sat Jun  8 01:41:05 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:05 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=45
+[Sat Jun  8 01:41:06 2024] (virq:irq_count)- 4:711845946 14:203219879 214:185512482 20:165292084 6:112362037 23:44640423 185:37879270 167:30509217 179:21565416 32:19902412 
+[Sat Jun  8 01:41:06 2024] (cpu:irq_count)- 0:766582095 1:439969092 2:172604636 3:173941388 4:25038482 5:25696068 6:19864065 7:26628216 
+[Sat Jun  8 01:41:06 2024] (ipi:irq_count)- 0:1809511760 1:638846184 2:0 3:0 4:4670225 5:97060040 6:0 
+[Sat Jun  8 01:41:06 2024] [wpa_su][0x28a4ca555978][20:16:34.475725] wlan: [5719:E:OSIF] wlan_cfg80211_mc_cp_get_big_data_stats: wait failed or timed out ret: -110
+[Sat Jun  8 01:41:06 2024] [wpa_su][0x28a4ca555c9b][20:16:34.475766] wlan: [5719:E:HDD] hdd_get_station_info_ex: wlan_hdd_get_big_data_station_stats fail
+[Sat Jun  8 01:41:06 2024] [schedu][0x28a4ca5ef3b9][20:16:34.508501] wlan: [30402:I:OSIF] scan start scan id 41487
+[Sat Jun  8 01:41:06 2024] gsi soc:qcom,msm_gsi: gsi_config_channel_mode:4140 already in requested mode 1 chan_hdl=11
+[Sat Jun  8 01:41:06 2024] logd: logdr: UID=1000 GID=1000 PID=4437 n tail=127 logMask=19 pid=0 start=0ns deadline=0ns
+[Sat Jun  8 01:41:06 2024] [schedu][0x28a4ca96a686][20:16:34.698618] wlan: [30402:I:OSIF] vdev 0, scan id 41487 type COMPLETED(1) reason CANCELLED(2) scan found 2 bss
+[Sat Jun  8 01:41:06 2024] [schedu][0x28a4cab48fd6][20:16:34.800716] wlan: [30402:I:HDD] hdd_local_unsafe_channel_updated: unsafe chan list same
+[Sat Jun  8 01:41:07 2024] [schedu][0x28a4cabdcf42][20:16:34.832281] wlan: [30402:I:OSIF] scan start scan id 41488
+[Sat Jun  8 01:41:07 2024] ipa-wan ipa3_wwan_ioctl:2138 r_rmnet_data1 is an invalid iface name
+[Sat Jun  8 01:41:07 2024] logd: SocketClient: write error (Broken pipe)
+[Sat Jun  8 01:41:07 2024] logd: logdr: UID=1000 GID=1000 PID=4444 n tail=127 logMask=80 pid=0 start=0ns deadline=0ns
+[Sat Jun  8 01:41:07 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 45, adj_refresh_rate =90, \x09\x09\x09\x09\x09cur_vfp = 2528, adj_vfp =54, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:07 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=90
+[Sat Jun  8 01:41:07 2024] [OPLUS_CHG][oplus_chg_print_log] CHGR[ 1 / 4 / 4678 / 1 / 0 ], BAT[ 1 / 0 / 1 / 0 / 1 / 686 ], GAUGE[ 332 / 4074 / 4074 / 533 / -1 / 76 / 76 / 63 / 3692 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 /], STATUS[ 0x0 / 0 / 0 / 0 / 0 / 0x0 ], OTHER[ 0 / 1 / 0 / 0 / 0/ 0 ]
+[Sat Jun  8 01:41:07 2024] BQ25600 bq2560x_iio_read_raw: bq2560x IIO channel 7a not supported
+[Sat Jun  8 01:41:07 2024] QCOM-BATT: is_parallel_available: Couldn't get fcc_max rc=-22
+[Sat Jun  8 01:41:07 2024] healthd: battery l=76 v=4074 t=33.2 h=2 st=2 c=533 fc=5058000 cc=110 chg=u
+[Sat Jun  8 01:41:08 2024] binder: 2693:2706 ioctl c0306201 74886dba78 returned -14
+[Sat Jun  8 01:41:08 2024] oom_reaper: reaped process 2693 (hj.zwh), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[Sat Jun  8 01:41:08 2024] warn_alloc: 1 callbacks suppressed
+[Sat Jun  8 01:41:08 2024] binder:31804_2: page allocation failure: order:0, mode:0x3100cca(GFP_HIGHUSER_MOVABLE|0x3000000), nodemask=(null),cpuset=background,mems_allowed=0
+[Sat Jun  8 01:41:08 2024] CPU: 5 PID: 31817 Comm: binder:31804_2 Tainted: G S      WC        5.4.259-qgki-gbb5b3f695614 #1
+[Sat Jun  8 01:41:08 2024] Hardware name: Qualcomm Technologies, Inc. Holi MTP (DT)
+[Sat Jun  8 01:41:08 2024] Call trace:
+[Sat Jun  8 01:41:08 2024] 0xffffffe6d1486f1c
+[Sat Jun  8 01:41:08 2024] binder: 31804:31816 ioctl c0306201 74897cea78 returned -14
+[Sat Jun  8 01:41:08 2024] show_stack+0x18/0x24
+[Sat Jun  8 01:41:08 2024] dump_stack+0xc4/0x100
+[Sat Jun  8 01:41:08 2024] warn_alloc+0x118/0x180
+[Sat Jun  8 01:41:08 2024] __alloc_pages_slowpath+0x828/0x834
+[Sat Jun  8 01:41:08 2024] __alloc_pages_nodemask+0x188/0x2e4
+[Sat Jun  8 01:41:08 2024] do_swap_page+0x118/0x730
+[Sat Jun  8 01:41:08 2024] handle_pte_fault+0xe0/0x26c
+[Sat Jun  8 01:41:08 2024] handle_mm_fault+0x1e0/0x2f8
+[Sat Jun  8 01:41:08 2024] do_page_fault+0x338/0x4a0
+[Sat Jun  8 01:41:08 2024] do_translation_fault+0x3c/0x54
+[Sat Jun  8 01:41:08 2024] do_mem_abort+0x64/0xf4
+[Sat Jun  8 01:41:08 2024] el1_da+0x1c/0xc0
+[Sat Jun  8 01:41:08 2024] __arch_copy_to_user+0x58/0x218
+[Sat Jun  8 01:41:08 2024] binder_ioctl_write_read+0x214/0x44c
+[Sat Jun  8 01:41:08 2024] binder_ioctl+0x1a8/0xc6c
+[Sat Jun  8 01:41:08 2024] do_vfs_ioctl+0x3f8/0x6a4
+[Sat Jun  8 01:41:08 2024] __arm64_sys_ioctl+0x74/0xa0
+[Sat Jun  8 01:41:08 2024] el0_svc_common+0xc4/0x1ac
+[Sat Jun  8 01:41:08 2024] el0_svc_handler+0x24/0x84
+[Sat Jun  8 01:41:08 2024] el0_svc+0x8/0x100
+[Sat Jun  8 01:41:08 2024] Mem-Info:
+[Sat Jun  8 01:41:08 2024] binder: 31804:3476 ioctl c0306201 74e28d5a78 returned -14
+[Sat Jun  8 01:41:08 2024] active_anon:301528 inactive_anon:100372 isolated_anon:260\x0a active_file:11841 inactive_file:15267 isolated_file:0\x0a unevictable:55512 dirty:70 writeback:18 unstable:0\x0a slab_reclaimable:19793 slab_unreclaimable:74059\x0a mapped:85329 shmem:4055 pagetables:21849 bounce:0\x0a free:1828 free_pcp:535 free_cma:0
+[Sat Jun  8 01:41:08 2024] Node 0 active_anon:1206112kB inactive_anon:401488kB active_file:47364kB inactive_file:61068kB unevictable:222048kB isolated(anon):1040kB isolated(file):0kB mapped:341316kB dirty:280kB writeback:72kB shmem:16220kB writeback_tmp:0kB unstable:0kB all_unreclaimable? no
+[Sat Jun  8 01:41:08 2024] Normal free:7312kB min:7504kB low:39056kB high:40932kB active_anon:1206012kB inactive_anon:401864kB active_file:46272kB inactive_file:61000kB unevictable:222048kB writepending:412kB present:3684672kB managed:3544108kB mlocked:222044kB kernel_stack:54544kB shadow_call_stack:13592kB pagetables:87396kB bounce:0kB free_pcp:2140kB local_pcp:160kB free_cma:0kB
+[Sat Jun  8 01:41:08 2024] lowmem_reserve[]: 0 0
+[Sat Jun  8 01:41:08 2024] Normal: 562*4kB (UMEH) 14*8kB (M) 63*16kB (UM) 91*32kB (UEH) 8*64kB (H) 7*128kB (H) 3*256kB (H) 1*512kB (H) 0*1024kB 0*2048kB 0*4096kB = 8968kB
+[Sat Jun  8 01:41:08 2024] 91401 total pagecache pages
+[Sat Jun  8 01:41:08 2024] 4727 pages in swap cache
+[Sat Jun  8 01:41:08 2024] Swap cache stats: add 288023799, delete 288016602, find 63866185/214011133
+[Sat Jun  8 01:41:08 2024] Free swap  = 880128kB
+[Sat Jun  8 01:41:08 2024] Total swap = 2621436kB
+[Sat Jun  8 01:41:08 2024] 921168 pages RAM
+[Sat Jun  8 01:41:08 2024] 0 pages HighMem/MovableOnly
+[Sat Jun  8 01:41:08 2024] 35141 pages reserved
+[Sat Jun  8 01:41:08 2024] 49152 pages cma reserved
+[Sat Jun  8 01:41:08 2024] cma: cma-0 pages: => 396 used of 5120 total pages
+[Sat Jun  8 01:41:08 2024] cma: cma-1 pages: => 0 used of 23552 total pages
+[Sat Jun  8 01:41:08 2024] cma: cma-2 pages: => 0 used of 4096 total pages
+[Sat Jun  8 01:41:08 2024] cma: cma-3 pages: => 770 used of 8192 total pages
+[Sat Jun  8 01:41:08 2024] cma: cma-4 pages: => 0 used of 4096 total pages
+[Sat Jun  8 01:41:08 2024] cma: cma-5 pages: => 1118 used of 2048 total pages
+[Sat Jun  8 01:41:08 2024] cma: cma-6 pages: => 512 used of 2048 total pages
+[Sat Jun  8 01:41:08 2024] binder: 31804:31817 ioctl c0306201 74886d0a78 returned -14
+[Sat Jun  8 01:41:08 2024] oom_reaper: reaped process 31804 (e.process.gapps), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[Sat Jun  8 01:41:08 2024] binder: 1718:2556 transaction failed 29189/-22, size 1700-0 line 3147
+[Sat Jun  8 01:41:08 2024] binder_alloc: 31804: binder_alloc_buf, no vma
+[Sat Jun  8 01:41:08 2024] binder: 1718:9660 transaction failed 29189/-3, size 84-0 line 3339
+[Sat Jun  8 01:41:08 2024] init: Untracked pid 2712 received signal 9
+[Sat Jun  8 01:41:08 2024] init: Untracked pid 2712 did not have an associated service entry and will not be reaped
+[Sat Jun  8 01:41:08 2024] init: Untracked pid 2720 exited with status 0
+[Sat Jun  8 01:41:08 2024] init: Untracked pid 2720 did not have an associated service entry and will not be reaped
+[Sat Jun  8 01:41:08 2024] oom_reaper: reaped process 14433 (ocess.gservices), now anon-rss:0kB, file-rss:0kB, shmem-rss:4kB
+[Sat Jun  8 01:41:09 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767944, adj_mode = 512768104
+[Sat Jun  8 01:41:09 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:09 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=45
+[Sat Jun  8 01:41:10 2024] [schedu][0x28a4ce4f8b07][20:16:37.951158] wlan: [30402:I:OSIF] vdev 0, scan id 41488 type COMPLETED(1) reason COMPLETED(1) scan found 9 bss
+[Sat Jun  8 01:41:10 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 45, adj_refresh_rate =90, \x09\x09\x09\x09\x09cur_vfp = 2528, adj_vfp =54, cur_mode = 512767944, adj_mode = 512768104
+[Sat Jun  8 01:41:10 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 45, adj_refresh_rate =90, \x09\x09\x09\x09\x09cur_vfp = 2528, adj_vfp =54, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:10 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=90
+[Sat Jun  8 01:41:10 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767944, adj_mode = 512768104
+[Sat Jun  8 01:41:10 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:10 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=45
+[Sat Jun  8 01:41:10 2024] [wpa_su][0x28a4ced5d2a5][20:16:38.409500] wlan: [5719:I:SME] vdev-0: Connecting to NETGEAR27 78:d2:94:0d:52:78 rssi: -54 freq: 2452 akm 9 cipher: uc 6 mc 6, CC: US
+[Sat Jun  8 01:41:10 2024] [schedu][0x28a4ced62f0e][20:16:38.410732] wlan: [30402:E:REGULATORY] reg_chan_band_to_freq: Invalid channel 0
+[Sat Jun  8 01:41:10 2024] [schedu][0x28a4ced639dc][20:16:38.410876] wlan: [30402:I:WMI] send_vdev_start_cmd_tlv: vdev_id 0 freq 2452 chanmode 11 ch_info: 0xb is_dfs 0 beacon interval 200 dtim 0 center_chan 2452 center_freq2 0 reg_info_1: 0x180000 reg_info_2: 0x1800, req->max_txpow: 0x18 Tx SS 1, Rx SS 1, ldpc_rx: 0, cac 0, regd 1, HE ops: 0req->dis_hw_ack: 0 
+[Sat Jun  8 01:41:10 2024] [schedu][0x28a4cedca693][20:16:38.432806] wlan: [30402:I:PE] Auth TX: seq 1 seq num 3114 status 0 WEP 0 to 78:d2:94:0d:52:78
+[Sat Jun  8 01:41:10 2024] [schedu][0x28a4cedd83da][20:16:38.435756] wlan: [30402:I:PE] Auth TX: success (0)
+[Sat Jun  8 01:41:10 2024] [schedu][0x28a4ceddba25][20:16:38.436480] wlan: [30402:I:PE] Auth RX: vdev 0 sys role 2 lim_state 5 from 78:d2:94:0d:52:78 rssi -52 auth_alg 0 seq 1514
+[Sat Jun  8 01:41:10 2024] [schedu][0x28a4ceddd18a][20:16:38.436792] wlan: [30402:I:PE] Assoc req TX: vdev 0 to 78:d2:94:0d:52:78 seq num 3115
+[Sat Jun  8 01:41:10 2024] [schedu][0x28a4cedeaad7][20:16:38.439689] wlan: [30402:I:PE] Assoc req TX: success (0)
+[Sat Jun  8 01:41:10 2024] [schedu][0x28a4cedf543f][20:16:38.441948] wlan: [30402:I:PE] Assoc rsp RX: subtype 0 vdev 0 sys role 2 lim state 10 rssi -52 from 78:d2:94:0d:52:78
+[Sat Jun  8 01:41:10 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 45, adj_refresh_rate =90, \x09\x09\x09\x09\x09cur_vfp = 2528, adj_vfp =54, cur_mode = 512767944, adj_mode = 512768104
+[Sat Jun  8 01:41:10 2024] [schedu][0x28a4cee2a829][20:16:38.453307] wlan: [30402:I:QDF] EAPOL-1 RX: SA:78:d2:94:0d:52:78 DA:fe:a1:53:1d:77:4d
+[Sat Jun  8 01:41:10 2024] [schedu][0x28a4cee31a3d][20:16:38.454828] wlan: [30402:I:HDD] wlan0(vdevid-0): fe:a1:53:1d:77:4d connected to 78:d2:94:0d:52:78
+[Sat Jun  8 01:41:10 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 45, adj_refresh_rate =90, \x09\x09\x09\x09\x09cur_vfp = 2528, adj_vfp =54, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:10 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=90
+[Sat Jun  8 01:41:10 2024] [soft_i][0x28a4ceee4345][20:16:38.492923] wlan: [0:I:QDF] EAPOL-2 TX: SA:fe:a1:53:1d:77:4d DA:78:d2:94:0d:52:78 msdu_id:1008 status: succ
+[Sat Jun  8 01:41:10 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:10 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=45
+[Sat Jun  8 01:41:10 2024] [cds_ol][0x28a4cef02558][20:16:38.499350] wlan: [30403:I:QDF] EAPOL-3 RX: SA:78:d2:94:0d:52:78 DA:fe:a1:53:1d:77:4d
+[Sat Jun  8 01:41:10 2024] [schedu][0x28a4cef13cc6][20:16:38.503075] wlan: [30402:I:WMI] wmi_fill_rso_tlvs: RSO_CFG: vdev:0 pmk_len = 32 pmksa caching:1 OKC:1 sae_same_pmk:0 key_mgmt_offload:1
+[Sat Jun  8 01:41:10 2024] [schedu][0x28a4cef14d23][20:16:38.503293] wlan: [30402:E:IPA] wlan_ipa_setup_iface: net:0000000000000000 mode:0 MAC:78:d2:94:0d:52:78 id:0
+[Sat Jun  8 01:41:10 2024] [soft_i][0x28a4cef18b36][20:16:38.504121] wlan: [0:I:QDF] EAPOL-4 TX: SA:fe:a1:53:1d:77:4d DA:78:d2:94:0d:52:78 msdu_id:1008 status: succ
+[Sat Jun  8 01:41:10 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 45, adj_refresh_rate =90, \x09\x09\x09\x09\x09cur_vfp = 2528, adj_vfp =54, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:10 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=90
+[Sat Jun  8 01:41:10 2024] [soft_i][0x28a4cf288f20][20:16:38.691907] wlan: [0:I:QDF] DHCP-R TX: SA:fe:a1:53:1d:77:4d DA:ff:ff:ff:ff:ff:ff msdu_id:1008 status: succ
+[Sat Jun  8 01:41:10 2024] [schedu][0x28a4cf334488][20:16:38.728458] wlan: [30402:I:HDD] hdd_local_unsafe_channel_updated: unsafe chan list same
+[Sat Jun  8 01:41:10 2024] [cds_ol][0x28a4cf3b4c15][20:16:38.755866] wlan: [30403:I:QDF] DHCP-A RX: SA:78:d2:94:0d:52:78 DA:fe:a1:53:1d:77:4d
+[Sat Jun  8 01:41:10 2024] ipa_pm activate_work_func:447 client has no callback
+[Sat Jun  8 01:41:11 2024] [cds_ol][0x28a4cf6f4af6][20:16:38.933345] wlan: [30403:I:QDF] DHCP-R RX: SA:fe:a1:53:1d:77:4d DA:ff:ff:ff:ff:ff:ff
+[Sat Jun  8 01:41:11 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767944, adj_mode = 512768104
+[Sat Jun  8 01:41:11 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:11 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=45
+[Sat Jun  8 01:41:11 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 45, adj_refresh_rate =90, \x09\x09\x09\x09\x09cur_vfp = 2528, adj_vfp =54, cur_mode = 512767944, adj_mode = 512768104
+[Sat Jun  8 01:41:11 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 45, adj_refresh_rate =90, \x09\x09\x09\x09\x09cur_vfp = 2528, adj_vfp =54, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:11 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=90
+[Sat Jun  8 01:41:11 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767944, adj_mode = 512768104
+[Sat Jun  8 01:41:11 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:11 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=45
+[Sat Jun  8 01:41:11 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 45, adj_refresh_rate =90, \x09\x09\x09\x09\x09cur_vfp = 2528, adj_vfp =54, cur_mode = 512767944, adj_mode = 512768104
+[Sat Jun  8 01:41:11 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 45, adj_refresh_rate =90, \x09\x09\x09\x09\x09cur_vfp = 2528, adj_vfp =54, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:11 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=90
+[Sat Jun  8 01:41:12 2024] oom_reaper: reaped process 2949 (id.gms.unstable), now anon-rss:0kB, file-rss:0kB, shmem-rss:64kB
+[Sat Jun  8 01:41:12 2024] binder: undelivered transaction 377577336, process died.
+[Sat Jun  8 01:41:12 2024] binder: undelivered transaction 377577337, process died.
+[Sat Jun  8 01:41:12 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767944, adj_mode = 512768104
+[Sat Jun  8 01:41:12 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:12 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=45
+[Sat Jun  8 01:41:12 2024] [OPLUS_CHG][oplus_chg_print_log] CHGR[ 1 / 4 / 4676 / 1 / 0 ], BAT[ 1 / 0 / 1 / 0 / 1 / 691 ], GAUGE[ 334 / 4070 / 4070 / 620 / -1 / 76 / 76 / 63 / 3692 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 /], STATUS[ 0x0 / 0 / 0 / 0 / 0 / 0x0 ], OTHER[ 0 / 1 / 0 / 0 / 0/ 0 ]
+[Sat Jun  8 01:41:12 2024] healthd: battery l=76 v=4070 t=33.4 h=2 st=2 c=620 fc=5058000 cc=110 chg=u
+[Sat Jun  8 01:41:12 2024] BQ25600 bq2560x_iio_read_raw: bq2560x IIO channel 7a not supported
+[Sat Jun  8 01:41:12 2024] QCOM-BATT: is_parallel_available: Couldn't get fcc_max rc=-22
+[Sat Jun  8 01:41:12 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 45, adj_refresh_rate =90, \x09\x09\x09\x09\x09cur_vfp = 2528, adj_vfp =54, cur_mode = 512767944, adj_mode = 512768104
+[Sat Jun  8 01:41:12 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 45, adj_refresh_rate =90, \x09\x09\x09\x09\x09cur_vfp = 2528, adj_vfp =54, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:12 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=90
+[Sat Jun  8 01:41:12 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767944, adj_mode = 512768104
+[Sat Jun  8 01:41:12 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 90, adj_refresh_rate =45, \x09\x09\x09\x09\x09cur_vfp = 54, adj_vfp =2528, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:12 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=45
+[Sat Jun  8 01:41:13 2024] [drm:dsi_display_validate_mode_change] [msm-dsi-info]: dfps: cur_refresh_rate = 45, adj_refresh_rate =90, \x09\x09\x09\x09\x09cur_vfp = 2528, adj_vfp =54, cur_mode = 512767912, adj_mode = 512768072
+[Sat Jun  8 01:41:13 2024] [drm:dsi_display_set_mode] [msm-dsi-info]: mdp_transfer_time=0, hactive=1080, vactive=2400, fps=90
